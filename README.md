@@ -1,0 +1,1 @@
+# Activity-Recognition-from-videos-using-Blazepose
